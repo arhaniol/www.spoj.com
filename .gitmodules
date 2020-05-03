@@ -1,0 +1,3 @@
+[submodule "TheNextPalindrome"]
+	path = TheNextPalindrome
+	url = https://github.com/arhaniol/www.spoj.com.git
