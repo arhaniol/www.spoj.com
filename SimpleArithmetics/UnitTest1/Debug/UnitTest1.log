@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+     Creating library D:\Mik\Projekty\SimpleArithmetics\Debug\UnitTest1.lib and object D:\Mik\Projekty\SimpleArithmetics\Debug\UnitTest1.exp
+UnitTest1.obj : error LNK2019: unresolved external symbol "public: __thiscall Operation::Operation(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Operation@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function "public: void __thiscall UnitTest1::UnitTest1::plus11238(void)" (?plus11238@UnitTest1@1@QAEXXZ)
+UnitTest1.obj : error LNK2019: unresolved external symbol "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall Operation::getOutput(void)" (?getOutput@Operation@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) referenced in function "public: void __thiscall UnitTest1::UnitTest1::plus11238(void)" (?plus11238@UnitTest1@1@QAEXXZ)
+D:\Mik\Projekty\SimpleArithmetics\Debug\UnitTest1.dll : fatal error LNK1120: 2 unresolved externals
